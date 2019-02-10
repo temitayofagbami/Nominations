@@ -1,0 +1,14 @@
+C:\GitHub\Nominations\IndividualNominationsAPI\bin\Debug\netcoreapp2.1\IndividualNominationsAPI.deps.json
+C:\GitHub\Nominations\IndividualNominationsAPI\bin\Debug\netcoreapp2.1\IndividualNominationsAPI.runtimeconfig.json
+C:\GitHub\Nominations\IndividualNominationsAPI\bin\Debug\netcoreapp2.1\IndividualNominationsAPI.runtimeconfig.dev.json
+C:\GitHub\Nominations\IndividualNominationsAPI\bin\Debug\netcoreapp2.1\IndividualNominationsAPI.dll
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.csprojAssemblyReference.cache
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.csproj.CoreCompileInputs.cache
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.RazorAssemblyInfo.cache
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.RazorAssemblyInfo.cs
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.AssemblyInfoInputs.cache
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.AssemblyInfo.cs
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.RazorTargetAssemblyInfo.cache
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.dll
+C:\GitHub\Nominations\IndividualNominationsAPI\obj\Debug\netcoreapp2.1\IndividualNominationsAPI.pdb
+C:\GitHub\Nominations\IndividualNominationsAPI\bin\Debug\netcoreapp2.1\IndividualNominationsAPI.pdb
