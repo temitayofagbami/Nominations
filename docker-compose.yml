@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  individualnominationsapi:
+    image: ${DOCKER_REGISTRY}individualnominationsapi
+    build:
+      context: .
+      dockerfile: IndividualNominationsAPI/Dockerfile

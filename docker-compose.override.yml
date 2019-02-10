@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  individualnominationsapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
